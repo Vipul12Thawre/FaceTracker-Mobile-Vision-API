@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaceTracking</string>
+    <string name="no_image_selected">No Image Selected</string>
+    <string name="input_image">Input Image</string>
+    <string name="result_image">Result Image</string>
+    <string name="mobileVisionAPI">Mobile Vision API</string>
+    <string name="facetracker">FACE TRACKER</string>
+    <string name="no_face_detect">Oops ! None face detected</string>
+</resources>
